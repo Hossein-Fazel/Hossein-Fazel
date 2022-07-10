@@ -1,7 +1,4 @@
 ### Hi there 👋
-I'm Hossein Fazel
-
-I'm currently learning solidity & kotlin
 
 <!--
 **Hossein-Fazel/Hossein-Fazel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
