@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a student
+I'm a student 👨🏻‍🎓
 
 
 **languages and tools:** 
