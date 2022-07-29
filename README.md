@@ -1,17 +1,18 @@
 <h1 align="center"> Hi👋
 
-i'm Hossein </h1>
+I'm Hossein </h1>
 
 ### I'm a student 👨🏻‍🎓
 
 ### I enjoy computer 💻 and programming 👨‍💻
 
+<h1 align="left"> Programming languages : </h1>
 
+[![My Skills](https://skillicons.dev/icons?i=py,kotlin&theme=light)](https://skillicons.dev)
 
+<h1 align="left"> Tools : </h1> 
 
-<h1 align="left"> Languages and tools : </h1> 
-
-[![My Skills](https://skillicons.dev/icons?i=py,kotlin,git,github,vscode,androidstudio,powershell,linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pr,git,github,gitlab,vscode,androidstudio,idea,powershell,linux&theme=light)](https://skillicons.dev)
 <img height="50" src="https://img.icons8.com/color/452/pycharm.png">
 
 <h1 align="left"> Operating systems : </h1>
