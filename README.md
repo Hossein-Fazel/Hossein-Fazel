@@ -1,4 +1,4 @@
-<h1 align="center"> Hi👋
+<h1 align="center">Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
 
 I'm Hossein </h1>
 
