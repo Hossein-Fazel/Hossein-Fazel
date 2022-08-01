@@ -2,6 +2,8 @@
 
 I'm Hossein </h1>
 
+<img align="right" height="270px" alt="GIF" src="https://user-images.githubusercontent.com/73769552/182081292-26cee0c9-2a73-4858-ad98-4d8f95c0877d.gif" />
+
 ### I'm a student 👨🏻‍🎓
 
 ### I enjoy computer 💻 and programming 👨‍💻
