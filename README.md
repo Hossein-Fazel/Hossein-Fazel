@@ -6,7 +6,7 @@ I'm Hossein </h1>
 
 ### I'm a student 👨🏻‍🎓
 
-### I enjoy computer 💻, programming 👨‍💻 and AI 🤖
+### I enjoy computer 💻, programming 👨‍💻 and Artificial Intelligence 🤖
 
 <h1 align="left"> Programming languages : </h1>
 
