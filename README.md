@@ -9,6 +9,8 @@ I'm Hossein </h1>
 <h1 align="left"> Programming languages : </h1>
 
 [![My Skills](https://skillicons.dev/icons?i=py&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp&theme=light)](https://skillicons.dev)
+
 
 <h1 align="left"> Tools : </h1> 
 
