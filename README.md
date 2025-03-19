@@ -13,7 +13,7 @@ I'm Hossein </h1>
 
 <h1 align="left"> Tools : </h1> 
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux&theme=light)](https://skillicons.dev
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux&theme=light)
 
 <h1 align="left"> Operating systems : </h1>
 
