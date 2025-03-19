@@ -13,8 +13,7 @@ I'm Hossein </h1>
 
 <h1 align="left"> Tools : </h1> 
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux&theme=light)](https://skillicons.dev)
-<img height="50" src="https://img.icons8.com/color/452/pycharm.png">
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux&theme=light)](https://skillicons.dev
 
 <h1 align="left"> Operating systems : </h1>
 
