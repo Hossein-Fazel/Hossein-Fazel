@@ -4,7 +4,7 @@ I'm Hossein </h1>
 
 ### I'm a student 👨🏻‍🎓
 
-### I enjoy computer 💻, programming 👨‍💻 and Artificial Intelligence 🤖
+### I enjoy computer 💻 and programming 👨‍💻
 
 <h1 align="left"> Programming languages : </h1>
 
@@ -19,6 +19,24 @@ I'm Hossein </h1>
 
 <code><img height="40" src="https://cdn-icons-png.flaticon.com/512/732/732221.png"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=linux&theme=light"></code>
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github.com/Hossein-Fazel/Hossein-Fazel/blob/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github.com/Hossein-Fazel/Hossein-Fazel/blob/output/github-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://github.com/Hossein-Fazel/Hossein-Fazel/blob/output/github-snake.svg"
+    />
+  </picture>
+</div>
+
 <!--
 **Hossein-Fazel/Hossein-Fazel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
