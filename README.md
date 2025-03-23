@@ -7,7 +7,7 @@
 
 
 ### **Programming Languages**
-[![My Skills](https://skillicons.dev/icons?i=py,cpp&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,golang&theme=light)](https://skillicons.dev)
 
 ---
 
