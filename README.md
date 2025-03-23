@@ -12,7 +12,7 @@
 ---
 
 ### **Tools & Technologies**
-![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux&theme=light)
+![My Skills](https://skillicons.dev/icons?i=git,github,mysql,vscode,linux&theme=light)
 
 ---
 
