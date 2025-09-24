@@ -7,18 +7,18 @@
 
 
 ### **Programming Languages**
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,golang&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=golang,py,cpp&theme=light)](https://skillicons.dev)
 
 ---
 
 ### **Tools & Technologies**
-![My Skills](https://skillicons.dev/icons?i=git,github,mysql,vscode,linux&theme=light)
+![My Skills](https://skillicons.dev/icons?i=linux,vscode,git,github,docker,mysql&theme=light)
 
 ---
 
 ### **Operating Systems**
-<code><img height="40" src="https://cdn-icons-png.flaticon.com/512/732/732221.png" alt="Windows"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=linux&theme=light" alt="Linux"></code>
+<code><img height="40" src="https://cdn-icons-png.flaticon.com/512/732/732221.png" alt="Windows"></code>
 
 ---
 
