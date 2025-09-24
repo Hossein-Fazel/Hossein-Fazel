@@ -17,8 +17,7 @@
 ---
 
 ### **Operating Systems**
-<code><img height="40" src="https://skillicons.dev/icons?i=linux&theme=light" alt="Linux"></code>
-<code><img height="40" src="https://cdn-icons-png.flaticon.com/512/732/732221.png" alt="Windows"></code>
+![My operating systems](https://skillicons.dev/icons?i=linux,windows&theme=light)
 
 ---
 
