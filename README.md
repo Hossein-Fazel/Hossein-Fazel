@@ -28,7 +28,7 @@
 </div>
 
 ---
-
+<!--
 ### **GitHub Contribution Snake**
 <div align="center">
   <picture>
@@ -46,7 +46,8 @@
     />
   </picture>
 </div>
-
+!-->
+![My Github Game](game.gif)
 ---
 
 ### **Let's Connect!**
