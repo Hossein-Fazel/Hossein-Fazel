@@ -53,7 +53,7 @@
 
 ### **Let's Connect!**
 <p align="center">
-  <a href="https://linkedin.com/in/hossein-fazel-a86111255" target="_blank">
+  <a href="https://linkedin.com/in/hossein-fazel/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:fazel.hosein9654@gmail.com" target="_blank">
