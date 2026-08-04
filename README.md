@@ -48,7 +48,7 @@
 </div>
 !-->
 ### **GitHub Contribution**
-![My Github Game](game.gif)
+![My Github Game](/asstes/game.gif)
 ---
 
 ### **Let's Connect!**
