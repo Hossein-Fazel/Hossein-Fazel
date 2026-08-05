@@ -47,14 +47,17 @@ Currently learning and expanding my knowledge in PostgreSQL, Docker, Kubernetes,
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hossein-Fazel&show_icons=true&theme=radical&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hossein-Fazel&layout=compact&theme=radical&hide_border=true"/>
 
-</div>
+</div> -->
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hossein-Fazel&theme=nightowl" alt="GitHub Streak"/>
+</p>
 ---
 
 ## 🎮 GitHub Contribution
