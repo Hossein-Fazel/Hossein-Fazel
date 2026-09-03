@@ -10,7 +10,7 @@ Backend Developer • Go (Golang)
 I enjoy designing and building backend systems, developing scalable APIs, and applying software engineering principles to create reliable solutions.  
 I am passionate about problem-solving, algorithms, and improving my understanding of software architecture and back-end development.   
 
-Currently learning and expanding my knowledge in PostgreSQL, Docker, Kubernetes, and modern back-end technologies.
+Currently learning and expanding my knowledge in PostgreSQL, Docker, and modern back-end technologies.
 </p>
 
 ---
@@ -29,7 +29,7 @@ Currently learning and expanding my knowledge in PostgreSQL, Docker, Kubernetes,
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=go,cpp,python&theme=light)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=go,python,cpp&theme=light)](https://skillicons.dev)
 
 ### Backend & Databases
 
@@ -41,19 +41,11 @@ Currently learning and expanding my knowledge in PostgreSQL, Docker, Kubernetes,
 
 ### Currently Learning
 
-[![Learning](https://skillicons.dev/icons?i=kubernetes,postgres&theme=light)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=postgres&theme=light)](https://skillicons.dev)
 
 ---
 
 ## 📈 GitHub Stats
-
-<!-- <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hossein-Fazel&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hossein-Fazel&layout=compact&theme=radical&hide_border=true"/>
-
-</div> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Hossein-Fazel&theme=nightowl" alt="GitHub Streak"/>
